@@ -1,0 +1,75 @@
+{
+  "Adam Sandler": {
+    "precision": 0.8333333333333334,
+    "recall": 1.0,
+    "f1-score": 0.9090909090909091,
+    "support": 5.0
+  },
+  "Ariana Grande": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "Dwayne Johnson": {
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1-score": 1.0,
+    "support": 6.0
+  },
+  "Karen": {
+    "precision": 0.625,
+    "recall": 0.625,
+    "f1-score": 0.625,
+    "support": 8.0
+  },
+  "Kendrick Lamar": {
+    "precision": 0.75,
+    "recall": 0.75,
+    "f1-score": 0.75,
+    "support": 4.0
+  },
+  "Kym": {
+    "precision": 0.8181818181818182,
+    "recall": 0.75,
+    "f1-score": 0.782608695652174,
+    "support": 12.0
+  },
+  "Marian": {
+    "precision": 0.0,
+    "recall": 0.0,
+    "f1-score": 0.0,
+    "support": 2.0
+  },
+  "Salma Hayek": {
+    "precision": 0.6666666666666666,
+    "recall": 0.8,
+    "f1-score": 0.7272727272727273,
+    "support": 5.0
+  },
+  "Shohei Ohtani": {
+    "precision": 0.8,
+    "recall": 1.0,
+    "f1-score": 0.8888888888888888,
+    "support": 4.0
+  },
+  "Tania": {
+    "precision": 0.875,
+    "recall": 0.7777777777777778,
+    "f1-score": 0.8235294117647058,
+    "support": 9.0
+  },
+  "accuracy": 0.8032786885245902,
+  "macro avg": {
+    "precision": 0.7368181818181818,
+    "recall": 0.7702777777777777,
+    "f1-score": 0.7506390632669405,
+    "support": 61.0
+  },
+  "weighted avg": {
+    "precision": 0.7933308494783905,
+    "recall": 0.8032786885245902,
+    "f1-score": 0.7957449637882326,
+    "support": 61.0
+  }
+}
