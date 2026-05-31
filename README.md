@@ -1,3 +1,5 @@
+<h1 align="center">Tópicos de Inteligencia Artificial (Unidad 4)</h1>
+
 <h1 align="center">Sistema de Reconocimiento Facial con CNN en Tiempo Real</h1>
 
 <p align="center">
@@ -5,7 +7,16 @@
   <img src="https://img.shields.io/badge/TensorFlow-2.x-orange.svg" alt="TensorFlow">
   <img src="https://img.shields.io/badge/OpenCV-4.x-green.svg" alt="OpenCV">
 </p>
+---
 
+<h2>Autores</h2>
+
+<p>Proyecto desarrollado por:</p>
+<ul>
+  <li>Gavilanes Medina Tania Elizabeth</li>
+  <li>Pacheco Reyes Kimberlyn</li>
+   <li>Ramirez Pompa Marian Gabriela</li>
+</ul>
 ---
 
 <h2>Descripcion del Proyecto</h2>
