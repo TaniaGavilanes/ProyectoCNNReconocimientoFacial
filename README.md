@@ -1,9 +1,9 @@
 # Materia
-## Tópicos de Inteligencia Artificial
+### Tópicos de Inteligencia Artificial
 
 # Unidad 4
 
-#Equipo:
+# Equipo:
 - Gavilanes Medina Tania Elizabeth
 - Pacheco Reyes Kimberlyn
 - Ramirez Pompa Marian Gabriela
