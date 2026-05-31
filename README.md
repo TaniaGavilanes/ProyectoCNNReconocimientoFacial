@@ -130,17 +130,6 @@ El objetivo principal es construir un sistema funcional que abarque desde la cap
 
 ---
 
-<h2>Autores</h2>
-
-<p>Proyecto desarrollado por:</p>
-<ul>
-  <li>Chiquete Martinez Karen Daniela</li>
-  <li>Gavilanes Medina Tania Elizabeth</li>
-  <li>Pacheco Reyes Kimberlyn</li>
-</ul>
-
----
-
 <h2>Recursos de Apoyo</h2>
 
 <p>Este proyecto se elaboro con apoyo de distintos recursos y tutoriales sobre:</p>
